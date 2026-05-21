@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f279b7f1feabf4e6b9bf5ed6fb2d0241
+timeCreated: 1512088162
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Scenes/scene_lightsOn.unity
+  uploadId: 716093

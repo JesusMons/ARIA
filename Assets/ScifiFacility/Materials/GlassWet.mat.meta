@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 357f29397d457a04480b5e6229254861
+timeCreated: 1512519393
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/GlassWet.mat
+  uploadId: 716093

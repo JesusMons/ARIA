@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 17d5fe13f02b14d319b96648a4a31d97
+timeCreated: 1525347430
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/_Readme.txt
+  uploadId: 716093

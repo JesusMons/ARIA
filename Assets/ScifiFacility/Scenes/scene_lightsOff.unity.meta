@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dee719ff15f63d94482a2d0ebafd425d
+timeCreated: 1512088162
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Scenes/scene_lightsOff.unity
+  uploadId: 716093

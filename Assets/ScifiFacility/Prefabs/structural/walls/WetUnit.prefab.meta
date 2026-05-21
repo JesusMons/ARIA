@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a6146f8e3e7904e1c91dd0c0acb5fdd6
+timeCreated: 1524125010
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/walls/WetUnit.prefab
+  uploadId: 716093

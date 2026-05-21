@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 25729ed644d1a42c0b6802c6a70dfd61
+timeCreated: 1515380919
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/_ExampleMats/Theme_3/Base_Stripes 4.mat
+  uploadId: 716093

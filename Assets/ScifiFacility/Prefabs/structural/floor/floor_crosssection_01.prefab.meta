@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 044aa7a41828c4a669cf51fa902bcd49
+timeCreated: 1524146551
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/floor/floor_crosssection_01.prefab
+  uploadId: 716093

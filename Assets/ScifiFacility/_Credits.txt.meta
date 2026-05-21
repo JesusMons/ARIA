@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2448df348bb834009befc7275b1e98b6
+timeCreated: 1525348015
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/_Credits.txt
+  uploadId: 716093

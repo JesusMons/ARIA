@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed3a9f41209f84f6db99e07013da9628
+timeCreated: 1487347827
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/PostProcessing/Utilities/CustomMotionTexture/ExampleScene.unity
+  uploadId: 716093

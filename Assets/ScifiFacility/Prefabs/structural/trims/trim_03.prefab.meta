@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 34e033bd89af8ef4d9f9cb87b282096a
+timeCreated: 1518602323
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/trims/trim_03.prefab
+  uploadId: 716093

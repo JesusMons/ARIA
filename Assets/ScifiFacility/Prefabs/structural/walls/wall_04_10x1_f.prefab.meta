@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 651809caed13a3e4ca4a9f40050fd1f6
+timeCreated: 1521503575
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/walls/wall_04_10x1_f.prefab
+  uploadId: 716093

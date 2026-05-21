@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0ca59da699fb24a079c853f0194f999c
+timeCreated: 1512519393
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/Glass 2.mat
+  uploadId: 716093

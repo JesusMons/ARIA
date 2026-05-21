@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6d09130fd7bc0e9458d9fb9c4b8872e4
+timeCreated: 1517472566
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/furniture/bed_ladder.prefab
+  uploadId: 716093

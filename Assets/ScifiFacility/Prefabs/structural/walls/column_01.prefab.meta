@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 241c88f25d0d66049831cea7d8c83cec
+timeCreated: 1516150799
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/walls/column_01.prefab
+  uploadId: 716093

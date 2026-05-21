@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8ceb866f50b86b0498714ee65e722706
+timeCreated: 1515749124
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/props/lights/light_05.prefab
+  uploadId: 716093

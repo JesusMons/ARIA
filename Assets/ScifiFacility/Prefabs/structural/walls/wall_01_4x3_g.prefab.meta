@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 661603ceebdc5cf4992c87f976778bd9
+timeCreated: 1521625346
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/walls/wall_01_4x3_g.prefab
+  uploadId: 716093

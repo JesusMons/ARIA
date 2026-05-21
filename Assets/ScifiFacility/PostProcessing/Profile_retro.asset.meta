@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88fa793cda28e8c4197704be9aa14a88
+timeCreated: 1487341088
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/PostProcessing/Profile_retro.asset
+  uploadId: 716093

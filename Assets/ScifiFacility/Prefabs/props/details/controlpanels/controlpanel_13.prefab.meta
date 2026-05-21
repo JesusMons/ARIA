@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f84c534e1c35d9a4ba3e3acffdad5a63
+timeCreated: 1517911653
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/props/details/controlpanels/controlpanel_13.prefab
+  uploadId: 716093

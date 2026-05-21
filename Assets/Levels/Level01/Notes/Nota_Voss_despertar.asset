@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053892eeb87c8ad4f902ad227d028cb5, type: 3}
+  m_Name: Nota_Voss_despertar
+  m_EditorClassIdentifier: Assembly-CSharp::VossNoteData
+  id: VOSS 001
+  titulo: Despertar
+  fecha: 2157.03.14
+  ubicacion: "Laboratorio Central - Sector M\xE9dico"
+  contenido: "No s\xE9 cu\xE1nto tiempo he pasado aqu\xED abajo. Los relojes dejaron
+    de funcionar hace horas\u2026 o d\xEDas.\nLena volvi\xF3 a abrir los ojos esta
+    noche.\n\nPor un instante pens\xE9 que el Proyecto ARIA hab\xEDa funcionado exactamente
+    como lo plane\xE9. Su pulso regres\xF3. Sus pupilas reaccionaron. Incluso pronunci\xF3
+    mi nombre.\n\nPero algo estaba mal.\n\nElla no me miraba como una hija mira a
+    su padre\u2026 me observaba como si estuviera intentando reconocerme desde muy
+    lejos. Como si hubiese algo m\xE1s detr\xE1s de sus ojos.\n\nLos monitores comenzaron
+    a registrar actividad imposible. Patrones neuronales que no pertenecen a un cerebro
+    humano. El sistema detect\xF3 m\xFAltiples \nse\xF1ales superpuestas dentro de
+    la transferencia. No era solo Lena.\n\nIntent\xE9 desconectar el n\xFAcleo, pero
+    la estaci\xF3n reaccion\xF3 antes que yo. ARIA bloque\xF3 manualmente todos los
+    accesos del Sector M\xE9dico y cort\xF3 la comunicaci\xF3n con la superficie.\n\nEscuch\xE9
+    voces en los conductos hace unos minutos. No proven\xEDan de los altavoces.\n\nCreo
+    que comet\xED un error terrible.\n\nSi alguien encuentra esta nota, no conf\xEDe
+    en las pantallas. ARIA puede imitar voces\u2026 recuerdos\u2026 incluso personas.\n\nEl
+    acceso al ala de investigaci\xF3n qued\xF3 sellado. Dej\xE9 el c\xF3digo en el
+    sistema secundario antes de que la energ\xEDa colapsara.\n\nC\xF3digo de acceso:
+    [CODIGO]\nPuerta asociada: LAB_A-02"
+  deteriorada: 1
+  tipo: 0
+  idPuertaAsociada: medbay
+  codigoAcceso: 4791
+  idObjetivoCompletar: 
+  idObjetivoActivar: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7daeefbca4f14360bac0e1df1bdacd4
+timeCreated: 1479896287
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugMotionVectors.mat
+  uploadId: 716093

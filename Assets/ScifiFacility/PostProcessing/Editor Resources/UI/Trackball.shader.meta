@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bf49309c7ab9eb42a86774d2c09b4fa
+timeCreated: 1460627788
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/PostProcessing/Editor Resources/UI/Trackball.shader
+  uploadId: 716093

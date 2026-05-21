@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e213272ad8ff213409a6e13b5c26b4e4
+timeCreated: 1464341416
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/PostProcessing/Resources/Shaders/EyeHistogram.compute
+  uploadId: 716093

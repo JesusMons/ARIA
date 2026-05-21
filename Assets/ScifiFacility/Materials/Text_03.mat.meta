@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ba1aa51185835fe4ba56f2f1c3ee997c
+timeCreated: 1521452068
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/Text_03.mat
+  uploadId: 716093

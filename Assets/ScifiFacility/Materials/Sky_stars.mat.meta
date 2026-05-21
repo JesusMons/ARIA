@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1f59ec0d3b8683049a56a2f27eba6e20
+timeCreated: 1512789808
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/Sky_stars.mat
+  uploadId: 716093

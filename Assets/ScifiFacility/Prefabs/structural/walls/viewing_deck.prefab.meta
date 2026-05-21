@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 80459bc8aa58a714f91fa5131b844f65
+timeCreated: 1521504979
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/walls/viewing_deck.prefab
+  uploadId: 716093

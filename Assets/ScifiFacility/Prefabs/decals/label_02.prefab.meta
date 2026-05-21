@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4f316a2d2b27646c18bc4fd99ce8c4df
+timeCreated: 1524734586
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/decals/label_02.prefab
+  uploadId: 716093

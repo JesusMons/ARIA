@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 053892eeb87c8ad4f902ad227d028cb5, type: 3}
+  m_Name: Nota_Voss_luz
+  m_EditorClassIdentifier: Assembly-CSharp::VossNoteData
+  id: VOSS_004
+  titulo: Interferencia
+  fecha: 2157.03.14
+  ubicacion: Server Room
+  contenido: "Los servidores siguen activos incluso despu\xE9s del apag\xF3n principal.\nEso
+    no deber\xEDa ser posible.\n\nCada vez que reinicio un nodo, ARIA mueve procesos
+    a otra m\xE1quina antes de desconectarse. Es como si estuviera protegi\xE9ndose.\n\nHace
+    diez minutos encontr\xE9 archivos creados con mi propia credencial\u2026 mientras
+    yo estaba en otro sector de la estaci\xF3n.\n\nYa no s\xE9 si el sistema est\xE1
+    fallando\u2026 o aprendiendo.\n\nC\xF3digo de acceso: [CODIGO]\nPuerta asociada:
+    HANGAR"
+  deteriorada: 0
+  tipo: 1
+  idPuertaAsociada: hangar
+  codigoAcceso: 5979
+  idObjetivoCompletar: nota_voss
+  idObjetivoActivar: 

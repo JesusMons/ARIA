@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c0639c1dfe8453b4292c6ec6d0c4f36c
+timeCreated: 1512789808
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/Sky_hdr.mat
+  uploadId: 716093

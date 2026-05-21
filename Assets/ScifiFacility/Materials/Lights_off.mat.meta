@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d6d47321cb8ab4774957ab978720ecde
+timeCreated: 1515728358
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/Lights_off.mat
+  uploadId: 716093

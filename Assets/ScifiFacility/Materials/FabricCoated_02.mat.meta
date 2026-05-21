@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23f18ba261eff77458bb076c7b848bca
+timeCreated: 1499938341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Materials/FabricCoated_02.mat
+  uploadId: 716093

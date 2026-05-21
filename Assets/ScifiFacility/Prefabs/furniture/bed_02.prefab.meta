@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cf9318cfec9c842cb8811d5d1c611c85
+timeCreated: 1523707959
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/furniture/bed_02.prefab
+  uploadId: 716093

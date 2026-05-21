@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 47cfd5f5eef174fcbb17313515469284
+timeCreated: 1524147157
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 116916
+  packageName: Sci-Fi Facility
+  packageVersion: 2.1
+  assetPath: Assets/ScifiFacility/Prefabs/structural/floor/floor_02.prefab
+  uploadId: 716093
